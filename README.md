@@ -15,9 +15,9 @@ This repository contains an implementation of a maze generator and solver using 
 
 ## Screenshots
 
-![maze](https://github.com/FranBlake89/DataStructures_Algorithms/assets/73005797/7b09e1ab-c36b-4e42-8b2d-8e9572017e24)
+![maze](https://github.com/FranBlake89/DataStructures_Algorithms/assets/73005797/7b09e1ab-c36b-4e42-8b2d-8e9572017e24){:width="400px"}
 
-![maze 2](https://github.com/seneca-dsa456/a3-g3-a3-mdela-torre-fcastillo-rojas1-snehal/assets/73005797/1949426e-7a8f-497a-9f77-259209dc9349)
+![maze 2](https://github.com/seneca-dsa456/a3-g3-a3-mdela-torre-fcastillo-rojas1-snehal/assets/73005797/1949426e-7a8f-497a-9f77-259209dc9349) {:width="400px"}
 
 ## Reflection - Francisco Castillo
 Throughout this assignment, I had the opportunity to dive into various aspects of algorithmic problem-solving, which greatly expanded my understanding and skill set.
