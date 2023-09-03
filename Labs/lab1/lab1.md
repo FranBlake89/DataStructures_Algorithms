@@ -1,0 +1,6 @@
+# Reflection for Lab 1 by Francisco Castillo
+
+Definitively Python is different from C/C++, for it was easiest to understand the problems with my functions or just read the code. It was more versatile when I try to implement my logic, something that doesn't like it was the indentation (I had some errors because the indentation didn't match) but nothing that an extension couldn't fix, now I am using prettier to avoid this issues. The classes works super different from C/C++, python simplify the process did the code more readable.
+The similarities between python and C/C++ are the use similar loops, conditionals and functions. The structures in conditional is the same with different syntax.
+The difference are more rather similarities, as memory management, python doesn't have do-while loops, python is an interpreted language while c/c++ are compiled language.
+In conclusion,C/C++ has more control over hardware resources and offers better performance for computationally intensive applications. This language is complex and error-prone, but offers fine-grained control over resources. On the other hand, Python's automatic memory management simplifies development and reduces the risk of memory-related errors by managing memory allocation and deallocation.
