@@ -1,6 +1,6 @@
 # DSA456: Maze Generator and Solver
 
-Welcome to the repository for the Data Structures and Algorithms (DSA456) course. Here, you'll find valuable resources, labs, assignments, and reflections related to the course. Additionally, we've implemented a Maze Generator and Solver using various data structures and algorithms.
+Welcome to my repository for the Data Structures and Algorithms (DSA456) course. Here, you'll find valuable resources, labs, assignments, and reflections related to the course. Additionally, it includes the implementation of a Maze Generator and Solver using various data structures and algorithms.
 
 ## Course Resources
 
@@ -28,17 +28,55 @@ Welcome to the repository for the Data Structures and Algorithms (DSA456) course
 
 ## Maze Generator and Solver
 
-This repository showcases an implementation of a maze generator and solver, utilizing diverse data structures and algorithms.
+This repository showcases an implementation of a maze generator and solver, utilizing diverse data structures and algorithms. The primary focus is on creating a maze generator and developing a recursive solver to navigate through the generated mazes. To complete this project We approach the project in 3 stages represented on Assignments; Fundamentals, Advance Structures, Applications, that are related with the course addenda. 
+
+### Assignments
+#### Assignment 1: Fundamentals
+*Objectives:*
+- Visualize and modify diagrams for linked lists.
+- Implement a SetList class within a disjoint set.
+- Create a DisjointSet class using dictionaries.
+- Develop a recursive maze runner function.
+
+*Knowledge Applied:*
+- Linked Lists
+- Disjoint Sets
+- Recursion
+- Data Structure Implementation
+- Algorithmic Problem Solving
+
+#### Assignment 2: Advanced Structures
+*Objectives:*
+- Analyze and suggest improvements for a sorted table class.
+- Implement hash tables with linear probing in two variations.
+- Develop a Graph class with various functionalities.
+
+*Knowledge Applied:*
+- Sorted Tables
+- Hash Tables
+- Linear Probing
+- Graphs
+
+#### Assignment 3: Applications
+*Objectives:*
+- Visualize and modify diagrams based on set operations.
+- Implement functions for a SetList class within a disjoint set.
+- Create a DisjointSet class using a dictionary.
+- Develop a recursive function to find paths in a maze.
+
+*Knowledge Applied:*
+- Set Operations
+- Advanced Linked Lists
+- Disjoint Set Applications
+- Recursive Algorithms
 
 ### Features
 
-- Maze generation using Minimum Spanning Tree (Prim's Algorithm)
-- Maze solving using recursion and backtracking
-
-### Getting Started
-
-1. Clone the repository: `git clone https://github.com/FranBlake89/maze-generator-solver.git`
-2. Start the program: Run `python main.py`
+- *Maze Generation:* Utilize data structures to create mazes with varying complexities.
+- *Maze Solving:* Implement a recursive algorithm to find paths through the generated mazes.
+- *Data Structure Exploration:* Gain insights into linked lists, disjoint sets, hash tables, and graphs.
+- *Algorithmic Problem Solving:* Tackle maze-related challenges using recursive approaches.
+- *Efficiency Improvements:* Apply optimization strategies to enhance data structure performance.
 
 ### Screenshots
 
